@@ -467,7 +467,7 @@ h3~img{
     padding:1.5rem;
 }
 .service-card-container{
-    width:400px;
+    width:350px;
     margin:2rem 0;
     background-color: #dee5eb;
     box-shadow: 0 5px 15px rgba(0,0,0,0.2);
@@ -515,6 +515,7 @@ h3~img{
       justify-content: center;
    }
 }
+
 /*--------------------Manage---------------------------------*/
 .manage{
     background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(./images/112d21117cbe0a5291d6de85695f5a05597759de-1440x974.avif);
@@ -523,7 +524,7 @@ h3~img{
 
 }
 .img-manage{
-    width:500px;
+    width:450px;
     height:350px;
     border-top-left-radius:5px;
     border-bottom-left-radius: 5px;
