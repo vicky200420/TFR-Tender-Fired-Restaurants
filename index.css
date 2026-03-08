@@ -467,7 +467,7 @@ h3~img{
     padding:1.5rem;
 }
 .service-card-container{
-    width:350px;
+   max-width:400px;
     margin:2rem 0;
     background-color: #dee5eb;
     box-shadow: 0 5px 15px rgba(0,0,0,0.2);
@@ -523,9 +523,12 @@ h3~img{
     background-size: cover;
 
 }
+.manage-image{
+    max-width: 500px;
+}
 .img-manage{
-    width:450px;
-    height:350px;
+    /* /* max-width: 500px; */
+    height:350px; 
     border-top-left-radius:5px;
     border-bottom-left-radius: 5px;
 }

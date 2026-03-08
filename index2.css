@@ -295,6 +295,8 @@ li{
     padding:2rem 0;
     position: relative;
     display: flex;
+    flex-wrap: wrap;
+    gap:20px;
 }
 .footer-form input{ 
     outline:none;
@@ -332,6 +334,7 @@ li{
 }
 .footer-content{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
 }
